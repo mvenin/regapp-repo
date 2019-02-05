@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "regapp",
+    "packageName": "io.github.jhipster.regapp",
+    "packageFolder": "io/github/jhipster/regapp",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZDc0ZWQ5NDE2MzM1Njc3ZTVjNWEwOWM1MzEyYTUxNTBjYjhmNjM0NzRmOGI3YmU1MDJmMDE1ZjcyYzBjNzI4YzgwOTFhODQ0ZGUwYWRiMjFhNGI5MWQxMjM5YmNkYTAxZTU5ODJjZDI2YjExNmVhODA5MTQ0ODg0MWFmMWM2Zjc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mvenin",
+  "repository-name": "regapp-repo"
+}
